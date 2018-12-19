@@ -5,6 +5,6 @@ This repository is implementation of SeqFF using python.
 
 
 # Dependency
-> Python 3.5
-> Pandas
-> Scikit-learn
+> Python 3.5  
+> Pandas  
+> Scikit-learn  
