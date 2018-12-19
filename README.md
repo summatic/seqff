@@ -1,0 +1,2 @@
+# seqff
+Implementation of SeqFF
